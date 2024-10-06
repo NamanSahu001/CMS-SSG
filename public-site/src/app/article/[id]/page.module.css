@@ -1,0 +1,16 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.article-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.article-content {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
